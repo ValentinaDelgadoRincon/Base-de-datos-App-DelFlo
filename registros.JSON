@@ -1,10 +1,517 @@
-{
+[{
     "id_usuario":"01",
     "nombre": "Siempre a tu lado",
     "genero":"drama",
+    "estado":"terminado",
     "plataforma":"youtube",
     "formato":"pelicula",
     "fecha_terminacion":"03-08-2025",
     "valoracion_final":"5",
-    "reseña":"Muy linda, Lloré mucho"
+    "reseña":"muy linda, llore mucho"
+},
+{
+    "id_usuario":"02",
+    "nombre": "purple hearts",
+    "genero":"drama",
+    "estado":"terminado",
+    "plataforma":"netflix",
+    "formato":"pelicula",
+    "fecha_terminacion":"20-07-2025",
+    "valoracion_final":"5",
+    "reseña":"me gusto mucho,la volveria a ver"
+},
+{
+    "id_usuario":"03",
+    "nombre": "cars",
+    "genero":"animacion",
+    "estado":"terminado",
+    "plataforma":"disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"la recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"04",
+    "nombre": "La enfermera",
+    "genero":"terror",
+    "estado":"terminado",
+    "plataforma":"netflix",
+    "formato":"pelicula",
+    "fecha_terminacion":"20-06-2025",
+    "valoracion_final":"2",
+    "reseña":"muy aburrida,y el final es predecible"
+},
+{
+    "id_usuario":"05",
+    "nombre": "winnie the pooh:sangre y miel",
+    "genero":"terrro",
+    "estado":"terminado",
+    "plataforma":"prime video",
+    "formato":"pelicula",
+    "fecha_terminacion":"20-07-2025",
+    "valoracion_final":"1",
+    "reseña":"no tine un buen final, en general muy mala la pelicula"
+},
+{
+    "id_usuario":"06",
+    "nombre": "scary move",
+    "genero":"terror",
+    "estado":"terminado",
+    "plataforma":"netflix",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-04-2025",
+    "valoracion_final":"4",
+    "reseña":"mala para ver en familia, pero en genral me gusto"
+},
+{
+    "id_usuario":"07",
+    "nombre": "la princesa y el sapo",
+    "genero":"animacion",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-01-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia me encanto"
+},
+{
+    "id_usuario":"08",
+    "nombre": "Sr y Sra Smith",
+    "genero":"accion",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"02-02-2025",
+    "valoracion_final":"5",
+    "reseña":"me gusto mucho,es buena la pelicula"
+},
+{
+    "id_usuario":"09",
+    "nombre": "de todos los chicos de los que me enamore",
+    "genero":"romance",
+    "estado":"terminado",
+    "plataforma":"netflix",
+    "formato":"pelicula",
+    "fecha_terminacion":"11-03-2025",
+    "valoracion_final":"5",
+    "reseña":"una pelicula muy linda y nostalgica"
+},
+{
+    "id_usuario":"10",
+    "nombre": "the hottie y the nottie",
+    "genero":"comedia romantica",
+    "estado":"terminado",
+    "plataforma":"amazon",
+    "formato":"pelicula",
+    "fecha_terminacion":"12-05-2025",
+    "valoracion_final":"3",
+    "reseña":"no me gusto, es muy aburrida"
+},
+{
+    "id_usuario":"11",
+    "nombre": "bajo la misma estrella",
+    "genero":"romance",
+    "estado":"terminado",
+    "plataforma":"disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"01-02-2025",
+    "valoracion_final":"5",
+    "reseña":"me hizo llorara, pero es muy linda"
+},
+{
+    "id_usuario":"12",
+    "nombre": "a dos metros de ti",
+    "genero":"drama y romance",
+    "estado":"terminado",
+    "plataforma":"disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"15-05-2025",
+    "valoracion_final":"5",
+    "reseña":"muy linda, pero es muy triste"
+},
+{
+    "id_usuario":"13",
+    "nombre": "star wars",
+    "genero":"accion",
+    "estado":"terminado",
+    "plataforma":"disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"22-07-2025",
+    "valoracion_final":"4",
+    "reseña":"muy interesante"
+},
+{
+    "id_usuario":"14",
+    "nombre": "jorobado de notredame",
+    "genero":"animacion",
+    "estado":"terminado",
+    "plataforma":"disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"08-07-2025",
+    "valoracion_final":"5",
+    "reseña":"la recomiendo, me gusto mucho"
+},
+{
+    "id_usuario":"15",
+    "nombre": "espiritu indomable",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Netflix",
+    "formato":"pelicula",
+    "fecha_terminacion":"22-02-2025",
+    "valoracion_final":"5",
+    "reseña":"la recomiendo, buena para ver en familia es muy linda"
+},
+{
+    "id_usuario":"16",
+    "nombre": "demon slayer",
+    "genero":"accion y aventura",
+    "estado":"en progreso",
+    "plataforma":"netflix",
+    "formato":"serie",
+    "reseña":"hasta el momento me ha gustado mucho"
+},
+{
+    "id_usuario":"17",
+    "nombre": "xo kitty",
+    "genero":"comedia romantica",
+    "estado":"terminado",
+    "plataforma":"netflix",
+    "formato":"serie",
+    "fecha_terminacion":"10-04-2025",
+    "valoracion_final":"4",
+    "reseña":"La recomiendo,es muy buena aunque no muy apta para ver en familia"
+},
+{
+    "id_usuario":"18",
+    "nombre": "riverdale",
+    "genero":"misterio",
+    "estado":"pendiente",
+    "plataforma":"netflix",
+    "formato":"serie"
+},
+{
+    "id_usuario":"19",
+    "nombre": "stranger things",
+    "genero":"ciencia ficcion",
+    "estado":"en progreso",
+    "plataforma":"netflix",
+    "formato":"serie",
+    "reseña":"es ineteresante ,me gusta"
+},
+{
+    "id_usuario":"20",
+    "nombre": "el juego del calamar",
+    "genero":"suspenso",
+    "estado":"terminado",
+    "plataforma":"netflix",
+    "formato":"serie",
+    "fecha_terminacion":"11-02-2025",
+    "valoracion_final":"5",
+    "reseña":"me gusto mucho toda la serie"
+},
+{
+    "id_usuario":"21",
+    "nombre": "the true beauty",
+    "genero":"romance",
+    "estado":"en progreso",
+    "plataforma":"netflix",
+    "formato":"serie",
+    "valoracion_final":"5",
+    "reseña":"es muy buena y hace reflexionar"
+},
+{
+    "id_usuario":"22",
+    "nombre": "hunter hunter",
+    "genero":"aventura",
+    "estado":"pendiente",
+    "plataforma":"netflix",
+    "formato":"serie"
+},
+{
+    "id_usuario":"23",
+    "nombre": "eramos mentirosos",
+    "genero":"drama",
+    "estado":"en progreso",
+    "plataforma":"prime video",
+    "formato":"serie",
+    "reseña":"me ha aburrido un poco"
+},
+{
+    "id_usuario":"24",
+    "nombre": "paradise",
+    "genero":"thriller",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"serie",
+    "fecha_terminacion":"01-20-2025",
+    "valoracion_final":"3",
+    "reseña":"no me gusto mucho"
+},
+{
+    "id_usuario":"25",
+    "nombre": "justicia joven",
+    "genero":"accion",
+    "estado":"pendiente",
+    "plataforma":"hbo",
+    "formato":"serie"
+},
+{
+    "id_usuario":"26",
+    "nombre": "elif",
+    "genero":"drama",
+    "estado":"terminado",
+    "plataforma":"caracol tv",
+    "formato":"serie",
+    "fecha_terminacion":"11-02-2025",
+    "valoracion_final":"2",
+    "reseña":"muy aburrida"
+},
+{
+    "id_usuario":"27",
+    "nombre": "chespirito",
+    "genero":"comedia",
+    "estado":"en progreso",
+    "plataforma":"hbo",
+    "formato":"serie",
+    "reseña":"es divertida"
+},
+{
+    "id_usuario":"28",
+    "nombre": "the last of us",
+    "genero":"accion",
+    "estado":"terminado",
+    "plataforma":"hbo",
+    "formato":"serie",
+    "fecha_terminacion":"10-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, es muy buena"
+},
+{
+    "id_usuario":"29",
+    "nombre": "got of thrones",
+    "genero":"drama y fantasia",
+    "estado":"en progreso",
+    "plataforma":"hbo",
+    "formato":"serie",
+    "reseña":"me esta gustando mucho"
+},
+{
+    "id_usuario":"30",
+    "nombre": "friends",
+    "genero":"comedia",
+    "estado":"pendiente",
+    "plataforma":"hbo",
+    "formato":"serie"
+},
+{
+    "id_usuario":"31",
+    "nombre": "moby dick",
+    "genero":"ficcion",
+    "estado":"en progreso",
+    "plataforma":"pdf",
+    "formato":"libro",
+    "reseña":"hasta el momento ha sido interesante"
+},
+{
+    "id_usuario":"32",
+    "nombre": "desapegarse sin anestesia",
+    "genero":"auto ayuda",
+    "estado":"terminado",
+    "plataforma":"medio fisico",
+    "formato":"libro",
+    "fecha_terminacion":"06-02-2024",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo muy bueno"
+},
+{
+    "id_usuario":"33",
+    "nombre": "lo que piensas mientras te muerdes las uñas",
+    "genero":"auto ayuda",
+    "estado":"en progreso",
+    "plataforma":"medio fisico",
+    "formato":"libro",
+    "reseña":"hasta el momento me ha gustado mucho"
+},
+{
+    "id_usuario":"34",
+    "nombre": "uno cambia el amor de su vida por otro amor o por otra vida",
+    "genero":"humor y autoayuda",
+    "estado":"terminado",
+    "plataforma":"medio fisico",
+    "formato":"libro",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"35",
+    "nombre": "la republica",
+    "genero":"historia",
+    "estado":"pendiente",
+    "plataforma":"pdf",
+    "formato":"libro"
+},
+{
+    "id_usuario":"36",
+    "nombre": "don quijote de la mancha",
+    "genero":"parodia y satira",
+    "estado":"en progreso",
+    "plataforma":"pdf",
+    "formato":"libro",
+    "valoracion_final":"5",
+    "reseña":"me gusto"
+},
+{
+    "id_usuario":"37",
+    "nombre": "la divina comedia",
+    "genero":"epico",
+    "estado":"terminado",
+    "plataforma":"medio fisico",
+    "formato":"libro",
+    "fecha_terminacion":"06-07-2022",
+    "valoracion_final":"4",
+    "reseña":"muy entretenido"
+},
+{
+    "id_usuario":"38",
+    "nombre": "las mujeres que aman demasido",
+    "genero":"auto ayuda y psicologia",
+    "estado":"terminado",
+    "plataforma":"pdf",
+    "formato":"libro",
+    "fecha_terminacion":"06-02-2022",
+    "valoracion_final":"4",
+    "reseña":"me enseño muchas cosas"
+},
+{
+    "id_usuario":"39",
+    "nombre": "maria",
+    "genero":"ficcion",
+    "estado":"pendiente",
+    "plataforma":"medio fisico",
+    "formato":"libro"
+},
+{
+    "id_usuario":"40",
+    "nombre": "boulevard",
+    "genero":"romance y drama",
+    "estado":"terminado",
+    "plataforma":"pdf",
+    "formato":"libro",
+    "fecha_terminacion":"06-01-2021",
+    "valoracion_final":"4",
+    "reseña":"muy lindo pero muy sobrevalorado"
+},
+{
+    "id_usuario":"41",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"42",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"43",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"44",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"45",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"46",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"47",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"48",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"49",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
+},
+{
+    "id_usuario":"50",
+    "nombre": "xo kitty",
+    "genero":"animación",
+    "estado":"terminado",
+    "plataforma":"Disney+",
+    "formato":"pelicula",
+    "fecha_terminacion":"06-07-2025",
+    "valoracion_final":"5",
+    "reseña":"La recomiendo, buena para ver en familia"
 }
+]
