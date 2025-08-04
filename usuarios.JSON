@@ -1,6 +1,175 @@
-{
+[{
     "id_usuario": "01",
     "nombre": "valentina",
     "correo": "valen@gmail.com",
     "nombre_user": "valendr"
+},
+
+{
+    "id_usuario": "02",
+    "nombre": "camila",
+    "correo": "cami@gmail.com",
+    "nombre_user": "cami12"
+},
+
+{
+    "id_usuario": "03",
+    "nombre": "karolain",
+    "correo": "karol@gmail.com",
+    "nombre_user": "karo_03"
+},
+
+{
+    "id_usuario": "04",
+    "nombre": "michel",
+    "correo": "miche@gmail.com",
+    "nombre_user": "michel08"
+},
+
+{
+    "id_usuario": "05",
+    "nombre": "edgar",
+    "correo": "edgar@gmail.com",
+    "nombre_user": "edgarAndreslp"
+},
+
+{
+    "id_usuario": "06",
+    "nombre": "santiago",
+    "correo": "santi@gmail.com",
+    "nombre_user": "santiagovrd12"
+},
+
+{
+    "id_usuario": "07",
+    "nombre": "sara",
+    "correo": "sarita@gmail.com",
+    "nombre_user": "sarita19"
+},
+
+{
+    "id_usuario": "08",
+    "nombre": "emely",
+    "correo": "meme@gmail.com",
+    "nombre_user": "melys13"
+},
+
+{
+    "id_usuario": "09",
+    "nombre": "vanesa",
+    "correo": "solecito@gmail.com",
+    "nombre_user": "solvane15"
+},
+
+{
+    "id_usuario": "10",
+    "nombre": "cristian",
+    "correo": "cris@gmail.com",
+    "nombre_user": "cristian_Alejandro"
+},
+
+{
+    "id_usuario": "11",
+    "nombre": "deisy",
+    "correo": "dey12@gmail.com",
+    "nombre_user": "rosisisi"
+},
+
+{
+    "id_usuario": "12",
+    "nombre": "milena",
+    "correo": "mimi@gmail.com",
+    "nombre_user": "milena12"
+},
+
+{
+    "id_usuario": "13",
+    "nombre": "darwin",
+    "correo": "darwin7@gmail.com",
+    "nombre_user": "darwinsito"
+},
+
+{
+    "id_usuario": "14",
+    "nombre": "samuel",
+    "correo": "samuelito@gmail.com",
+    "nombre_user": "samu_amor"
+},
+
+{
+    "id_usuario": "15",
+    "nombre": "patricia",
+    "correo": "patriiciaRubio@gmail.com",
+    "nombre_user": "paty-paty"
+},
+
+{
+    "id_usuario": "16",
+    "nombre": "saul",
+    "correo": "saulAdrian22@gmail.com",
+    "nombre_user": "adri09"
+},
+
+{
+    "id_usuario": "17",
+    "nombre": "luis",
+    "correo": "luisdel05@gmail.com",
+    "nombre_user": "luchito050505"
+},
+
+{
+    "id_usuario": "18",
+    "nombre": "francisco",
+    "correo": "franco00@gmail.com",
+    "nombre_user": "franquito01010"
+},
+
+{
+    "id_usuario": "19",
+    "nombre": "anaCorral",
+    "correo": "CorralAna154@gmail.com",
+    "nombre_user": "anita:)"
+},
+
+{
+    "id_usuario": "20",
+    "nombre": "juan",
+    "correo": "juanse342@gmail.com",
+    "nombre_user": "juansitoelmejor"
+},
+
+{
+    "id_usuario": "21",
+    "nombre": "manuel",
+    "correo": "manuelcaballero0876@gmail.com",
+    "nombre_user": "manumanu88"
+},
+
+{
+    "id_usuario": "22",
+    "nombre": "camilo",
+    "correo": "camiloJJ22@gmail.com",
+    "nombre_user": "camiJJ"
+},
+
+{
+    "id_usuario": "23",
+    "nombre": "lorena",
+    "correo": "loren1755@gmail.com",
+    "nombre_user": "loren6523"
+},
+
+{
+    "id_usuario": "24",
+    "nombre": "carlos",
+    "correo": "carlosIvan097@gmail.com",
+    "nombre_user": "carlitosmmmm"
+},
+
+{
+    "id_usuario": "25",
+    "nombre": "sandra",
+    "correo": "sandraramirez8460@gmail.com",
+    "nombre_user": "sandritarara"
 }
+]
